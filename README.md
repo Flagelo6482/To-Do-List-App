@@ -17,3 +17,21 @@ Documentación oficial de Flask
 SQLite con Flask
 
 Tutorial básico de Flask
+
+
+##
+## Funcionalidades básicas:
+
+Añadir tareas.
+
+Marcar tareas como completadas.
+
+Eliminar tareas.
+
+Extras (si quieres desafío):
+
+Categorías (trabajo/personal).
+
+Fechas de vencimiento.
+
+##
